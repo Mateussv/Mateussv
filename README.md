@@ -1,16 +1,14 @@
+## Mateus Victor
+[![Linkedin Badge](https://img.shields.io/badge/-mateussv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-victor/)](https://www.linkedin.com/in/mateus-victor/)
+[![Gmail Badge](https://img.shields.io/badge/-mateus.svictor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateus.svictor@gmail.com)](mailto:mateus.svictor@gmail.com)  
+<br>
 ### Hi there 👋
 
-<!--
-**Mateussv/Mateussv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a full stack developer, passionate about the entire JavaScript ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I’m currently working on my complete fluency in JavaScript and how it can help people around me.
+* :books: I’m currently learning English. But eager to start studying Spanish and German.
+* 💬 Ask me about tech, music, world travel, cycling and marriage.
+* :computer: Main technologies: JavaScript, React, Node, SQL, React-Native, Css3, HTML5.
+
