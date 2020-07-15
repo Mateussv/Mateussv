@@ -10,6 +10,6 @@ I'm a full stack developer, passionate about the entire JavaScript ecosystem.
 
 * 🔭 I’m currently working on my complete fluency in JavaScript and how it can help people around me.
 * :books: I’m currently learning English. But eager to start studying Spanish and German.
-* 💬 Ask me about tech, music, world travel, cycling and marriage.
+* 💬 Ask me about tech, music, world travel and cycling.
 * :computer: Main technologies: JavaScript, React, Node, SQL, React-Native, Css3, HTML5.
 
