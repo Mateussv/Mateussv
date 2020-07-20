@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 
-I'm a full stack developer, passionate about the entire JavaScript ecosystem.
+I'm a Front End Engineer, passionate about the entire JavaScript ecosystem.
 
 * 🔭 I’m currently working on my complete fluency in JavaScript and how it can help people around me.
 * :books: I’m currently learning English. But eager to start studying Spanish and German.
