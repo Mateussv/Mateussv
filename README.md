@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mateus.svictor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateus.svictor@gmail.com)](mailto:mateus.svictor@gmail.com)  
 <br>
 
-### Hi there 👋
+### Hi!
 
 
 I am a Frontend Developer, focused on the entire JavaScript ecosystem.
